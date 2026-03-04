@@ -15,20 +15,20 @@ Item {
         fillMode: Image.PreserveAspectFit
     }
 
-    Rectangle {
-        anchors.fill: parent
-        color: "transparent"
-        border.color: "blue"
-        border.width: 2
-    }
+    // Rectangle {
+    //     anchors.fill: parent
+    //     color: "transparent"
+    //     border.color: "blue"
+    //     border.width: 2
+    // }
 
-    Rectangle {
-        width: enemyData.radius * 2.0
-        height: enemyData.radius * 2.0
-        anchors.centerIn: parent
-        radius: width / 2
-        color: "transparent"
-        border.color: "red"
-        border.width: 2
-    }
+    // Rectangle {
+    //     width: enemyData.radius * 2.0
+    //     height: enemyData.radius * 2.0
+    //     anchors.centerIn: parent
+    //     radius: width / 2
+    //     color: "transparent"
+    //     border.color: "red"
+    //     border.width: 2
+    // }
 }
