@@ -20,3 +20,5 @@
 2. Выберите `File -> Open File or Project...` и укажите путь к `CMakeLists.txt` в корне репозитория.
 3. Выберите нужный Kit, например *Desktop Qt 6.8.0 MinGW 64-bit*.
 4. Нажмите `Run` (Ctrl+R).
+
+<img width="1920" height="1027" alt="screenshot" src="https://github.com/user-attachments/assets/b65e69b6-eb7e-43aa-9b33-d18731578d5d" />
